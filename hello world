@@ -7,4 +7,15 @@ console.log('Hello World').
 #python
   print('Hello world').
 
-  
+#C#
+
+using System; 
+
+class URI {
+
+    static void Main(string[] args) { 
+
+    Console.WriteLine("Hello World!");
+    }
+
+}
