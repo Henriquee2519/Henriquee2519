@@ -1,0 +1,18 @@
+// criar 3 variaveis e imprimir uma frase utilizando as mesmas
+// frase = Hello, Bob! You have 3 messages in your inbox. The temperature is 34.4 celsius.
+
+//Solução
+
+string Name = "Fernando";
+int num = 3;
+float nota = 34.4F;
+Console.Write("Hello, Bob! you have ");
+Console.Write(num);
+Console.Write(" ");
+Console.Write("messages in you inbox. The temperature is ");
+Console.Write(nota );
+Console.Write(" ");
+Console.Write("celsius.");
+
+Saída
+Hello, Bob! you have 3 messages in you inbox. The temperature is 34.4 celsius.
