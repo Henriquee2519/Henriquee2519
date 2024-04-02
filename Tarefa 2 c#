@@ -3,10 +3,14 @@
 
 //Solução
 
-string Name = "Fernando";
+string Name = "Bob";
 int num = 3;
 float nota = 34.4F;
-Console.Write("Hello, Bob! you have ");
+Console.Write("Hello,");
+Console.Write(" ");
+Console.Write(Name);
+Console.Write(" ");
+Console.Write("you you have ");
 Console.Write(num);
 Console.Write(" ");
 Console.Write("messages in you inbox. The temperature is ");
@@ -15,4 +19,4 @@ Console.Write(" ");
 Console.Write("celsius.");
 
 Saída
-Hello, Bob! you have 3 messages in you inbox. The temperature is 34.4 celsius.
+Hello, Bob you you have 3 messages in you inbox. The temperature is 34.4 celsius.
