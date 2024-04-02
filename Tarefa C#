@@ -1,0 +1,14 @@
+// Tarefa 1 - Escreva um código que produz a seguinte saída:
+//This is the first line.
+//This is the second line.
+
+// Solução
+Console.WriteLine("This is the first line.");
+Console.Write("This is ");
+Console.Write("the first ");
+Console.Write("Line.");
+Console.WriteLine("This is the second line.");
+Console.Write("This is ");
+Console.Write("the second ");
+Console.Write("line.");
+
