@@ -1,0 +1,16 @@
+// - Comentário
+// Função Print em C#
+Console.WriteLine("Hello World!");
+Console.WriteLine("Congratulations!");
+// WriteLine imprime em linhas diferentes
+Console.WriteLine("Hello");
+Console.WriteLine("World!");
+Saída
+Hello
+World!
+Console.Write("Hello");
+Console.Write(" ");
+Console.Write("World!");
+// Write imprime na mesma linha
+Saída
+Hello World!
